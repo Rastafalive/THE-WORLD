@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrew Taylor</h1>
 <h3 align="center">One who is passionate about Cybersecurity</h3>
 
-- 🌱 I’m currently learning **Ethical Hacking,Networking, Cyberscurity**
+- 🌱 I’m currently learning **Ethical Hacking, Networking, Cyberscurity**
 
 - 💬 Ask me about **MySQL, Python, MATLAB, C**
 
 - 📫 How to reach me **ataylor.worklife@gmail.com**
 
-- ⚡ Fun fact **I am a dilligent worker,curious, and sometimes funny**
+- ⚡ Fun fact **I am a dilligent worker, curious, and sometimes funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
